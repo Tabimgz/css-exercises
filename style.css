@@ -1,14 +1,9 @@
 /* Add CSS Styling */
-.white, .black{
-    text-align: center;
-    font-size: 28px;
-    font-family: helvetica, "times new roman", sans-serif;
-    }
-.white{
-    background-color: black;
-    color:white;
+.avatar.proportioned{
+    height:auto;
+    width: 300px
 }
-.black{
-    background-color: yellow;
-    color:black
+.avatar.distorted{
+    width:200px;
+    height: 400px;
 }

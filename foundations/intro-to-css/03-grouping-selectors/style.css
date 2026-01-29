@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.white, .black{
+    text-align: center;
+    font-size: 28px;
+    font-family: helvetica, "times new roman", sans-serif;
+    }
+.white{
+    background-color: black;
+    color:white;
+}
+.black{
+    background-color: yellow;
+    color:black
+}

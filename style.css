@@ -1,9 +1,7 @@
 /* Add CSS Styling */
-.avatar.proportioned{
-    height:auto;
-    width: 300px
-}
-.avatar.distorted{
-    width:200px;
-    height: 400px;
+.container .text{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    background-color: yellow;
 }
